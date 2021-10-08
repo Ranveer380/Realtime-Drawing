@@ -1,0 +1,20 @@
+.heading{
+    width:100%;
+font-size: 15px;
+margin: 0px;
+box-shadow: 5px 5px 5px grey;
+height: 100px;
+}
+canvas{
+    border:5px solid blue;
+background-color: black ;   
+
+}  
+
+.footer{
+    background-color: gold;
+position: fixed ;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
